@@ -54,3 +54,10 @@ npm run build
 - prep stations
 - shift tasks
 - banquet cards
+
+## Documentation
+
+- product vision: `docs/vision.md`
+- architecture: `docs/architecture.md`
+- roadmap: `docs/roadmap.md`
+- task backlog: `docs/tasks.md`
